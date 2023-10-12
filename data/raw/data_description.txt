@@ -1,0 +1,11 @@
+descriptions_vaga_Analista: Descrições de vagas coletadas no LinkedIn para a 
+função de Analista de Dados.
+
+descriptions_vaga_Cientista: Descrições de vagas coletadas no LinkedIn para a
+função de Cientista de Dados.
+
+headers_Analista: Headers coletados de perfis de Usuários que incluiram o termo
+"Analista de Dados" em seus perfis.
+
+headers_Cientista: Headers coletados de perfis de Usuários que incluiram o termo
+"Cientista de Dados" em seus perfis.
