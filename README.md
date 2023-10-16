@@ -58,4 +58,4 @@ palavras chave encontradas nas descrições das vagas.
 
 ## Resultado
 
-Os painéis gerados a partir dos dados coletados podem ser conferidos na pasta **paineis**.
+Os painéis gerados a partir dos dados coletados podem ser conferidos na pasta **paineis**. Ambos foram feitos usando o **Tableau**.
